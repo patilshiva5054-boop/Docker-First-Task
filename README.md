@@ -1,4 +1,4 @@
-# Docker-First-Task
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 130317" src="https://github.com/user-attachments/assets/b8f2acb5-e55e-4010-a786-6c2e757ecd8d" /># Docker-First-Task
  Docker for Absolute Beginners — Full Practical Guide (README)
 
 This project teaches you Docker from scratch by building, running, networking, and Dockerizing a real Python + PostgreSQL application.
@@ -281,7 +281,7 @@ Push it:
 docker push your-dockerhub-username/my-python-db-app
 
 
-Done! 🚀
+Done! 
 
 ✔ Project Completed
 
@@ -297,6 +297,8 @@ Run containers
 
 Create Docker networks
 
+
+
 Run PostgreSQL in Docker
 
 Connect Python → PostgreSQL
@@ -304,3 +306,20 @@ Connect Python → PostgreSQL
 Dockerize a full app
 
 Push image to Docker Hub
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 130317" src="https://github.com/user-attachments/assets/a20ef096-62f8-4ceb-b173-3e2db86ee441" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 132628" src="https://github.com/user-attachments/assets/b39d6c72-ee0e-4540-8ba2-850fcc11c4c8" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 132656" src="https://github.com/user-attachments/assets/c871e78d-e8cd-4c2e-8085-bf09c294529e" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 132744" src="https://github.com/user-attachments/assets/62aace74-d0dc-4e41-929d-45969ecd7253" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 132813" src="https://github.com/user-attachments/assets/bdb44ea8-4579-4015-9888-f80782b76eb5" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 132831" src="https://github.com/user-attachments/assets/dd38ffa2-3771-48e4-a384-0d0a0340299b" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-06 132854" src="https://github.com/user-attachments/assets/9ca7f409-b501-4acc-bb4e-907121d61673" />
